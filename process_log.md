@@ -1,4 +1,4 @@
-# Process Log — Project Build Timeline
+# Process outline on the implementation
 
 This document captures the sequence of steps taken to build the Multilingual Grant & Tender Matcher project.
 
@@ -61,12 +61,4 @@ flowchart TD
 	 style F fill:#ff9,stroke:#333,stroke-width:1px
 ```
 
-## Notes & next actions
 
-- Consider adding `requirements.txt` to pin versions used in evaluation.
-- Add `run_all.ps1` or `run_all.sh` to automate generator → parser → matcher → eval.
-- Tune `strip_boilerplate()` patterns or run grid search on `w_tfidf`, `w_bm25`, and `alpha` to improve MRR.
-
----
-
-Last updated: 2026-04-23
