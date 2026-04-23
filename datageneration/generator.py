@@ -89,7 +89,6 @@ tenders = [generate_tender(i) for i in range(1,41)]
 formats = ["txt","html","pdf"]
 
 # Ensure output directories exist before saving any files
-os.makedirs("datageneration/data", exist_ok=True)
 os.makedirs("datageneration/data/tenders", exist_ok=True)
 
 for t in tenders:
