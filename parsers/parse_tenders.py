@@ -110,6 +110,6 @@ def parse_all(tenders_dir, out_path):
 
 if __name__ == '__main__':
     base = Path('datageneration/data/tenders')
-    out = Path('datageneration/data/parsed_tenders.jsonl')
+    out = Path('parsers/parsed_data/parsed_tenders.jsonl')
     os.makedirs(out.parent, exist_ok=True)
     parse_all(base, out)
