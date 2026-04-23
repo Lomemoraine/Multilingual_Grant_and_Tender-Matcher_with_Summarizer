@@ -1,7 +1,10 @@
-Title: Healthtech Innovation Grant 38
-Sector: healthtech
-Budget: 1000000 USD
-Deadline: 2026-07-13
-Eligibility: SMEs and startups in Africa
+Title: Agritech Innovation Grant 38
+Sector: agritech
+Budget: 200000 USD
+Deadline: 2026-10-22
 Region: Kenya
-Language: EN
+Language: FR
+
+Description: Appel à propositions pour des solutions innovantes dans le secteur agritech en Kenya. Budget disponible: 200000 USD. Date limite: 2026-10-22. Les candidats sont invités à soumettre des propositions complètes démontrant l'excellence technique, la durabilité et la capacité de montée en charge.
+
+Eligibility: SMEs and startups in Africa

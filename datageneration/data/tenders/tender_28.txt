@@ -1,7 +1,0 @@
-Title: Agritech Innovation Grant 28
-Sector: agritech
-Budget: 50000 USD
-Deadline: 2026-12-04
-Eligibility: SMEs and startups in Africa
-Region: Ethiopia
-Language: FR

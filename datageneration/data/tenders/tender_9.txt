@@ -1,7 +1,0 @@
-Title: Agritech Innovation Grant 9
-Sector: agritech
-Budget: 1000000 USD
-Deadline: 2027-04-11
-Eligibility: SMEs and startups in Africa
-Region: DRC
-Language: EN

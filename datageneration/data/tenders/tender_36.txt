@@ -1,7 +1,0 @@
-Title: Healthtech Innovation Grant 36
-Sector: healthtech
-Budget: 50000 USD
-Deadline: 2027-04-09
-Eligibility: SMEs and startups in Africa
-Region: Senegal
-Language: EN

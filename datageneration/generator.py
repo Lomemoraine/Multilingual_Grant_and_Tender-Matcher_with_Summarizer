@@ -28,14 +28,41 @@ def generate_tender(i):
         "language": lang
     }
 def save_tender(t, fmt):
+    # Templated description built from slots
+    if t.get("language") == "FR":
+        template = (
+            f"Appel à propositions pour des solutions innovantes dans le secteur {t['sector']} en {t['region']}. "
+            f"Budget disponible: {t['budget']}. Date limite: {t['deadline']}."
+        )
+    else:
+        template = (
+            f"Call for proposals seeking innovative solutions in the {t['sector']} sector in {t['region']}. "
+            f"Available budget: {t['budget']}. Deadline: {t['deadline']}."
+        )
+
+    # Random bureaucratic boilerplate (EN/FR)
+    en_boilerplates = [
+        "Applicants are invited to submit comprehensive proposals that demonstrate technical excellence, sustainability, and capacity for scale.",
+        "Proposals should align with national priorities and demonstrate measurable impact on target populations.",
+        "All submissions will be evaluated according to predefined criteria and may be subject to additional due diligence."
+    ]
+    fr_boilerplates = [
+        "Les candidats sont invités à soumettre des propositions complètes démontrant l'excellence technique, la durabilité et la capacité de montée en charge.",
+        "Les propositions doivent s'aligner sur les priorités nationales et démontrer un impact mesurable sur les populations cibles.",
+        "Toutes les soumissions seront évaluées selon des critères prédéfinis et pourront faire l'objet d'une diligence supplémentaire."
+    ]
+
+    boilerplate = random.choice(fr_boilerplates) if t.get("language") == "FR" else random.choice(en_boilerplates)
+
     content = (
         f"Title: {t['title']}\n"
         f"Sector: {t['sector']}\n"
         f"Budget: {t['budget']}\n"
         f"Deadline: {t['deadline']}\n"
-        f"Eligibility: {t['eligibility']}\n"
         f"Region: {t['region']}\n"
-        f"Language: {t['language']}\n"
+        f"Language: {t['language']}\n\n"
+        f"Description: {template} {boilerplate}\n\n"
+        f"Eligibility: {t['eligibility']}\n"
     )
 
     if fmt == "txt":
@@ -61,7 +88,8 @@ def save_tender(t, fmt):
 tenders = [generate_tender(i) for i in range(1,41)]
 formats = ["txt","html","pdf"]
 
-# Ensure output directory exists before saving any files
+# Ensure output directories exist before saving any files
+os.makedirs("datageneration/data", exist_ok=True)
 os.makedirs("datageneration/data/tenders", exist_ok=True)
 
 for t in tenders:

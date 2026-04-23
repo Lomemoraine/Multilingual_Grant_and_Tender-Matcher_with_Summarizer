@@ -1,7 +1,10 @@
-Title: Edtech Innovation Grant 4
-Sector: edtech
-Budget: 50000 USD
-Deadline: 2026-10-19
-Eligibility: SMEs and startups in Africa
+Title: Wastetech Innovation Grant 4
+Sector: wastetech
+Budget: 200000 USD
+Deadline: 2026-11-04
 Region: Ethiopia
-Language: EN
+Language: FR
+
+Description: Appel à propositions pour des solutions innovantes dans le secteur wastetech en Ethiopia. Budget disponible: 200000 USD. Date limite: 2026-11-04. Les candidats sont invités à soumettre des propositions complètes démontrant l'excellence technique, la durabilité et la capacité de montée en charge.
+
+Eligibility: SMEs and startups in Africa

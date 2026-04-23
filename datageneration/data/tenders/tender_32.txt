@@ -1,7 +1,0 @@
-Title: Cleantech Innovation Grant 32
-Sector: cleantech
-Budget: 50000 USD
-Deadline: 2026-11-05
-Eligibility: SMEs and startups in Africa
-Region: Senegal
-Language: FR

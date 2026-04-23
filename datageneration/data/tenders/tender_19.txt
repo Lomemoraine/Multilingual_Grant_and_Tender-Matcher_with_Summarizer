@@ -1,7 +1,0 @@
-Title: Fintech Innovation Grant 19
-Sector: fintech
-Budget: 200000 USD
-Deadline: 2027-02-23
-Eligibility: SMEs and startups in Africa
-Region: Rwanda
-Language: EN

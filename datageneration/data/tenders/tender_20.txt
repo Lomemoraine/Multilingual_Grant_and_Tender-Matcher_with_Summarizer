@@ -1,7 +1,10 @@
-Title: Wastetech Innovation Grant 20
-Sector: wastetech
+Title: Edtech Innovation Grant 20
+Sector: edtech
 Budget: 5000 USD
-Deadline: 2026-07-26
-Eligibility: SMEs and startups in Africa
-Region: Senegal
+Deadline: 2026-06-22
+Region: DRC
 Language: EN
+
+Description: Call for proposals seeking innovative solutions in the edtech sector in DRC. Available budget: 5000 USD. Deadline: 2026-06-22. Proposals should align with national priorities and demonstrate measurable impact on target populations.
+
+Eligibility: SMEs and startups in Africa

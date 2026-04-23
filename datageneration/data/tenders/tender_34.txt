@@ -1,7 +1,0 @@
-Title: Edtech Innovation Grant 34
-Sector: edtech
-Budget: 1000000 USD
-Deadline: 2026-09-05
-Eligibility: SMEs and startups in Africa
-Region: Senegal
-Language: EN

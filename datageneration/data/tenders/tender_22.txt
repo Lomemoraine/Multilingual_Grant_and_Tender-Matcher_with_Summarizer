@@ -1,7 +1,0 @@
-Title: Cleantech Innovation Grant 22
-Sector: cleantech
-Budget: 50000 USD
-Deadline: 2026-07-08
-Eligibility: SMEs and startups in Africa
-Region: Kenya
-Language: EN

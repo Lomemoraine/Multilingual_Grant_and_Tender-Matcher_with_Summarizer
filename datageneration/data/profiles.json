@@ -2,30 +2,30 @@
   {
     "id": 1,
     "sector": "agritech",
-    "country": "Ethiopia",
-    "employees": 182,
+    "country": "Senegal",
+    "employees": 142,
     "languages": [
-      "EN"
+      "FR"
     ],
     "needs_text": "Looking for funding in agritech sector",
     "past_funding": "None"
   },
   {
     "id": 2,
-    "sector": "agritech",
-    "country": "Kenya",
-    "employees": 72,
+    "sector": "wastetech",
+    "country": "DRC",
+    "employees": 55,
     "languages": [
-      "EN"
+      "FR"
     ],
-    "needs_text": "Looking for funding in agritech sector",
+    "needs_text": "Looking for funding in wastetech sector",
     "past_funding": "None"
   },
   {
     "id": 3,
     "sector": "wastetech",
-    "country": "Rwanda",
-    "employees": 178,
+    "country": "Ethiopia",
+    "employees": 7,
     "languages": [
       "EN"
     ],
@@ -34,42 +34,20 @@
   },
   {
     "id": 4,
-    "sector": "healthtech",
+    "sector": "agritech",
     "country": "Kenya",
-    "employees": 182,
+    "employees": 61,
     "languages": [
       "EN"
     ],
-    "needs_text": "Looking for funding in healthtech sector",
+    "needs_text": "Looking for funding in agritech sector",
     "past_funding": "None"
   },
   {
     "id": 5,
-    "sector": "fintech",
-    "country": "Senegal",
-    "employees": 172,
-    "languages": [
-      "EN"
-    ],
-    "needs_text": "Looking for funding in fintech sector",
-    "past_funding": "None"
-  },
-  {
-    "id": 6,
-    "sector": "wastetech",
-    "country": "Rwanda",
-    "employees": 64,
-    "languages": [
-      "EN"
-    ],
-    "needs_text": "Looking for funding in wastetech sector",
-    "past_funding": "None"
-  },
-  {
-    "id": 7,
     "sector": "cleantech",
-    "country": "Kenya",
-    "employees": 81,
+    "country": "Rwanda",
+    "employees": 172,
     "languages": [
       "FR"
     ],
@@ -77,10 +55,21 @@
     "past_funding": "None"
   },
   {
-    "id": 8,
-    "sector": "healthtech",
+    "id": 6,
+    "sector": "fintech",
     "country": "Ethiopia",
-    "employees": 185,
+    "employees": 164,
+    "languages": [
+      "EN"
+    ],
+    "needs_text": "Looking for funding in fintech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 7,
+    "sector": "healthtech",
+    "country": "Rwanda",
+    "employees": 197,
     "languages": [
       "FR"
     ],
@@ -88,23 +77,34 @@
     "past_funding": "None"
   },
   {
-    "id": 9,
-    "sector": "agritech",
+    "id": 8,
+    "sector": "cleantech",
     "country": "Rwanda",
-    "employees": 27,
+    "employees": 45,
     "languages": [
       "FR"
     ],
-    "needs_text": "Looking for funding in agritech sector",
+    "needs_text": "Looking for funding in cleantech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 9,
+    "sector": "cleantech",
+    "country": "Rwanda",
+    "employees": 82,
+    "languages": [
+      "EN"
+    ],
+    "needs_text": "Looking for funding in cleantech sector",
     "past_funding": "None"
   },
   {
     "id": 10,
     "sector": "healthtech",
-    "country": "DRC",
-    "employees": 7,
+    "country": "Rwanda",
+    "employees": 173,
     "languages": [
-      "FR"
+      "EN"
     ],
     "needs_text": "Looking for funding in healthtech sector",
     "past_funding": "None"

@@ -1,7 +1,0 @@
-Title: Fintech Innovation Grant 13
-Sector: fintech
-Budget: 50000 USD
-Deadline: 2027-01-01
-Eligibility: SMEs and startups in Africa
-Region: Kenya
-Language: EN

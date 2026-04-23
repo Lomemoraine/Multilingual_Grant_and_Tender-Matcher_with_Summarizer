@@ -1,7 +1,0 @@
-Title: Wastetech Innovation Grant 21
-Sector: wastetech
-Budget: 1000000 USD
-Deadline: 2027-02-20
-Eligibility: SMEs and startups in Africa
-Region: Senegal
-Language: EN

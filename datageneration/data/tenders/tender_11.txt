@@ -1,6 +1,0 @@
-Title: Cleantech Innovation Grant 11
-Sector: cleantech
-Budget: 200000 USD
-Deadline: 2026-10-06
-Eligibility: SMEs and startups in Africa
-Region: Rwanda

@@ -1,7 +1,10 @@
-Title: Fintech Innovation Grant 14
-Sector: fintech
-Budget: 200000 USD
-Deadline: 2026-08-18
+Title: Edtech Innovation Grant 14
+Sector: edtech
+Budget: 5000 USD
+Deadline: 2027-03-14
+Region: Ethiopia
+Language: FR
+
+Description: Appel à propositions pour des solutions innovantes dans le secteur edtech en Ethiopia. Budget disponible: 5000 USD. Date limite: 2027-03-14. Toutes les soumissions seront évaluées selon des critères prédéfinis et pourront faire l'objet d'une diligence supplémentaire.
+
 Eligibility: SMEs and startups in Africa
-Region: Senegal
-Language: EN

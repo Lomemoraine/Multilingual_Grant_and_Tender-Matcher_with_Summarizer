@@ -1,6 +1,0 @@
-Title: Agritech Innovation Grant 7
-Sector: agritech
-Budget: 50000 USD
-Deadline: 2026-08-14
-Eligibility: SMEs and startups in Africa
-Region: Rwanda

@@ -1,7 +1,0 @@
-Title: Agritech Innovation Grant 17
-Sector: agritech
-Budget: 200000 USD
-Deadline: 2027-04-18
-Eligibility: SMEs and startups in Africa
-Region: Ethiopia
-Language: EN

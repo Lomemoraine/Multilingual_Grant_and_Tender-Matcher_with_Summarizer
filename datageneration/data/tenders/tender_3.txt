@@ -1,6 +1,0 @@
-Title: Fintech Innovation Grant 3
-Sector: fintech
-Budget: 200000 USD
-Deadline: 2026-08-04
-Eligibility: SMEs and startups in Africa
-Region: DRC

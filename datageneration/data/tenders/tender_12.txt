@@ -1,7 +1,10 @@
-Title: Edtech Innovation Grant 12
-Sector: edtech
+Title: Agritech Innovation Grant 12
+Sector: agritech
 Budget: 1000000 USD
-Deadline: 2026-07-15
-Eligibility: SMEs and startups in Africa
-Region: DRC
+Deadline: 2026-09-14
+Region: Rwanda
 Language: FR
+
+Description: Appel à propositions pour des solutions innovantes dans le secteur agritech en Rwanda. Budget disponible: 1000000 USD. Date limite: 2026-09-14. Les candidats sont invités à soumettre des propositions complètes démontrant l'excellence technique, la durabilité et la capacité de montée en charge.
+
+Eligibility: SMEs and startups in Africa

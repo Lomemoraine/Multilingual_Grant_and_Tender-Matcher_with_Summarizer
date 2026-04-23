@@ -1,7 +1,0 @@
-Title: Cleantech Innovation Grant 2
-Sector: cleantech
-Budget: 1000000 USD
-Deadline: 2026-09-13
-Eligibility: SMEs and startups in Africa
-Region: DRC
-Language: FR

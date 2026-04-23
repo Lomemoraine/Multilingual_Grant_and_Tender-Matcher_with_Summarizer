@@ -1,7 +1,10 @@
-Title: Fintech Innovation Grant 5
-Sector: fintech
-Budget: 1000000 USD
-Deadline: 2026-11-25
+Title: Cleantech Innovation Grant 5
+Sector: cleantech
+Budget: 200000 USD
+Deadline: 2026-12-11
+Region: Kenya
+Language: EN
+
+Description: Call for proposals seeking innovative solutions in the cleantech sector in Kenya. Available budget: 200000 USD. Deadline: 2026-12-11. Applicants are invited to submit comprehensive proposals that demonstrate technical excellence, sustainability, and capacity for scale.
+
 Eligibility: SMEs and startups in Africa
-Region: Senegal
-Language: FR

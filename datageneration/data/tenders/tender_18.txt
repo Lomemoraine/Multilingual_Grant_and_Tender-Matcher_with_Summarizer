@@ -1,6 +1,0 @@
-Title: Cleantech Innovation Grant 18
-Sector: cleantech
-Budget: 50000 USD
-Deadline: 2027-01-27
-Eligibility: SMEs and startups in Africa
-Region: Kenya

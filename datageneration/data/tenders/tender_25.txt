@@ -1,7 +1,0 @@
-Title: Cleantech Innovation Grant 25
-Sector: cleantech
-Budget: 5000 USD
-Deadline: 2026-09-05
-Eligibility: SMEs and startups in Africa
-Region: Kenya
-Language: EN
