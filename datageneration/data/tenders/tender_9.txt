@@ -1,6 +1,7 @@
-Title: Wastetech Innovation Grant 9
-Sector: wastetech
-Budget: 200000 USD
-Deadline: 2026-10-09
+Title: Agritech Innovation Grant 9
+Sector: agritech
+Budget: 1000000 USD
+Deadline: 2027-04-11
 Eligibility: SMEs and startups in Africa
-Region: Rwanda
+Region: DRC
+Language: EN

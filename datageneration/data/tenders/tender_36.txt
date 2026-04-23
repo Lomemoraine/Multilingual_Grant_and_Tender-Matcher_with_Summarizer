@@ -1,6 +1,7 @@
-Title: Agritech Innovation Grant 36
-Sector: agritech
-Budget: 200000 USD
-Deadline: 2027-02-24
+Title: Healthtech Innovation Grant 36
+Sector: healthtech
+Budget: 50000 USD
+Deadline: 2027-04-09
 Eligibility: SMEs and startups in Africa
-Region: Ethiopia
+Region: Senegal
+Language: EN

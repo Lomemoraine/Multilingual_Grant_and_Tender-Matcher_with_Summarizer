@@ -39,17 +39,17 @@ def save_tender(t, fmt):
     )
 
     if fmt == "txt":
-        fname = f"data/tenders/tender_{t['id']}.txt"
+        fname = f"datageneration/data/tenders/tender_{t['id']}.txt"
         with open(fname, "w", encoding="utf-8") as f:
             f.write(content)
 
     elif fmt == "html":
-        fname = f"data/tenders/tender_{t['id']}.html"
+        fname = f"datageneration/data/tenders/tender_{t['id']}.html"
         with open(fname, "w", encoding="utf-8") as f:
             f.write(f"<html><body><pre>{content}</pre></body></html>")
 
     elif fmt == "pdf":
-        fname = f"data/tenders/tender_{t['id']}.pdf"
+        fname = f"datageneration/data/tenders/tender_{t['id']}.pdf"
         pdf = FPDF()
         pdf.add_page()
         pdf.set_font("Arial", size=12)
@@ -62,7 +62,7 @@ tenders = [generate_tender(i) for i in range(1,41)]
 formats = ["txt","html","pdf"]
 
 # Ensure output directory exists before saving any files
-os.makedirs("data/tenders", exist_ok=True)
+os.makedirs("datageneration/data/tenders", exist_ok=True)
 
 for t in tenders:
     fmt = random.choice(formats)
@@ -85,15 +85,13 @@ def generate_profile(i):
         "past_funding": past_funding
     }
 
-# (Removed duplicate TXT-only tender generation — handled above)
-
 # Generate profiles
 profiles = [generate_profile(i) for i in range(1,11)]
-with open("data/profiles.json","w",encoding="utf-8") as f:
+with open("datageneration/data/profiles.json","w",encoding="utf-8") as f:
     json.dump(profiles,f,indent=2)
 
 # Generate gold matches (simple heuristic)
-with open("data/gold_matches.csv","w",newline="",encoding="utf-8") as f:
+with open("datageneration/data/gold_matches.csv","w",newline="",encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["profile_id","tender_id"])
     for p in profiles:

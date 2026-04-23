@@ -1,6 +1,7 @@
-Title: Healthtech Innovation Grant 5
-Sector: healthtech
-Budget: 5000 USD
-Deadline: 2027-03-30
+Title: Fintech Innovation Grant 5
+Sector: fintech
+Budget: 1000000 USD
+Deadline: 2026-11-25
 Eligibility: SMEs and startups in Africa
-Region: DRC
+Region: Senegal
+Language: FR

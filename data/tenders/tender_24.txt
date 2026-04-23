@@ -1,7 +1,0 @@
-Title: Wastetech Innovation Grant 24
-Sector: wastetech
-Budget: 200000 USD
-Deadline: 2026-06-14
-Eligibility: SMEs and startups in Africa
-Region: Ethiopia
-Language: EN

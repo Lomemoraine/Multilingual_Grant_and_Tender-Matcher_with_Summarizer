@@ -1,6 +1,7 @@
-Title: Edtech Innovation Grant 32
-Sector: edtech
+Title: Cleantech Innovation Grant 32
+Sector: cleantech
 Budget: 50000 USD
-Deadline: 2027-01-16
+Deadline: 2026-11-05
 Eligibility: SMEs and startups in Africa
-Region: Rwanda
+Region: Senegal
+Language: FR

@@ -1,6 +1,0 @@
-Title: Cleantech Innovation Grant 16
-Sector: cleantech
-Budget: 200000 USD
-Deadline: 2026-12-26
-Eligibility: SMEs and startups in Africa
-Region: Ethiopia

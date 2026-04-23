@@ -1,6 +1,7 @@
-Title: Healthtech Innovation Grant 1
-Sector: healthtech
-Budget: 50000 USD
-Deadline: 2026-07-10
+Title: Wastetech Innovation Grant 1
+Sector: wastetech
+Budget: 200000 USD
+Deadline: 2027-02-07
 Eligibility: SMEs and startups in Africa
 Region: Kenya
+Language: EN

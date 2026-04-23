@@ -1,6 +1,7 @@
-Title: Cleantech Innovation Grant 28
-Sector: cleantech
-Budget: 200000 USD
-Deadline: 2026-12-24
+Title: Agritech Innovation Grant 28
+Sector: agritech
+Budget: 50000 USD
+Deadline: 2026-12-04
 Eligibility: SMEs and startups in Africa
-Region: DRC
+Region: Ethiopia
+Language: FR

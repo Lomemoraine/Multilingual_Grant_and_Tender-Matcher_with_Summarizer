@@ -1,7 +1,0 @@
-Title: Wastetech Innovation Grant 12
-Sector: wastetech
-Budget: 1000000 USD
-Deadline: 2027-01-13
-Eligibility: SMEs and startups in Africa
-Region: Kenya
-Language: EN

@@ -1,6 +1,0 @@
-Title: Fintech Innovation Grant 9
-Sector: fintech
-Budget: 5000 USD
-Deadline: 2026-08-06
-Eligibility: SMEs and startups in Africa
-Region: Rwanda

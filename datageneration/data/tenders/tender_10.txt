@@ -1,6 +1,7 @@
 Title: Cleantech Innovation Grant 10
 Sector: cleantech
 Budget: 5000 USD
-Deadline: 2027-03-01
+Deadline: 2027-01-13
 Eligibility: SMEs and startups in Africa
-Region: DRC
+Region: Senegal
+Language: EN

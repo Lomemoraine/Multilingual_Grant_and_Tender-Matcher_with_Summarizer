@@ -1,6 +1,7 @@
-Title: Cleantech Innovation Grant 14
-Sector: cleantech
-Budget: 1000000 USD
-Deadline: 2027-02-16
+Title: Fintech Innovation Grant 14
+Sector: fintech
+Budget: 200000 USD
+Deadline: 2026-08-18
 Eligibility: SMEs and startups in Africa
-Region: Rwanda
+Region: Senegal
+Language: EN

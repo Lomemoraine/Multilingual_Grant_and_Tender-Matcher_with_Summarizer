@@ -1,6 +1,0 @@
-Title: Edtech Innovation Grant 26
-Sector: edtech
-Budget: 50000 USD
-Deadline: 2026-10-11
-Eligibility: SMEs and startups in Africa
-Region: DRC

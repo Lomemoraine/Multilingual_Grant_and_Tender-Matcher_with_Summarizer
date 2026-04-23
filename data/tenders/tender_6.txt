@@ -1,7 +1,0 @@
-Title: Edtech Innovation Grant 6
-Sector: edtech
-Budget: 200000 USD
-Deadline: 2026-12-20
-Eligibility: SMEs and startups in Africa
-Region: Senegal
-Language: EN

@@ -1,7 +1,0 @@
-Title: Healthtech Innovation Grant 2
-Sector: healthtech
-Budget: 5000 USD
-Deadline: 2027-04-05
-Eligibility: SMEs and startups in Africa
-Region: Ethiopia
-Language: FR

@@ -1,6 +1,7 @@
-Title: Fintech Innovation Grant 4
-Sector: fintech
-Budget: 1000000 USD
-Deadline: 2026-10-15
+Title: Edtech Innovation Grant 4
+Sector: edtech
+Budget: 50000 USD
+Deadline: 2026-10-19
 Eligibility: SMEs and startups in Africa
-Region: Rwanda
+Region: Ethiopia
+Language: EN

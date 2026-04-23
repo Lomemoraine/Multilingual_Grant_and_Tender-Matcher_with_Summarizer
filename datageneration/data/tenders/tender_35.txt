@@ -1,6 +1,7 @@
-Title: Edtech Innovation Grant 35
-Sector: edtech
-Budget: 5000 USD
-Deadline: 2027-01-29
+Title: Healthtech Innovation Grant 35
+Sector: healthtech
+Budget: 1000000 USD
+Deadline: 2026-12-27
 Eligibility: SMEs and startups in Africa
-Region: DRC
+Region: Rwanda
+Language: FR

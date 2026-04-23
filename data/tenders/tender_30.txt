@@ -1,7 +1,0 @@
-Title: Edtech Innovation Grant 30
-Sector: edtech
-Budget: 50000 USD
-Deadline: 2026-06-22
-Eligibility: SMEs and startups in Africa
-Region: Senegal
-Language: EN

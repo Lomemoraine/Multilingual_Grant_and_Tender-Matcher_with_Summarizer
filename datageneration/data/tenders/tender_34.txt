@@ -1,6 +1,7 @@
-Title: Agritech Innovation Grant 34
-Sector: agritech
-Budget: 200000 USD
-Deadline: 2027-04-11
+Title: Edtech Innovation Grant 34
+Sector: edtech
+Budget: 1000000 USD
+Deadline: 2026-09-05
 Eligibility: SMEs and startups in Africa
-Region: Ethiopia
+Region: Senegal
+Language: EN

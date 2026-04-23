@@ -1,6 +1,7 @@
-Title: Wastetech Innovation Grant 29
-Sector: wastetech
-Budget: 5000 USD
-Deadline: 2026-09-22
+Title: Cleantech Innovation Grant 29
+Sector: cleantech
+Budget: 50000 USD
+Deadline: 2026-12-07
 Eligibility: SMEs and startups in Africa
 Region: Kenya
+Language: EN

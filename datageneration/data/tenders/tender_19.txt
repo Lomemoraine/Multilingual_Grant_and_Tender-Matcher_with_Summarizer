@@ -1,6 +1,7 @@
-Title: Agritech Innovation Grant 19
-Sector: agritech
-Budget: 5000 USD
-Deadline: 2027-03-01
+Title: Fintech Innovation Grant 19
+Sector: fintech
+Budget: 200000 USD
+Deadline: 2027-02-23
 Eligibility: SMEs and startups in Africa
-Region: DRC
+Region: Rwanda
+Language: EN

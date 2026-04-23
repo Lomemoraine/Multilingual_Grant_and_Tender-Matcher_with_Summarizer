@@ -1,6 +1,0 @@
-Title: Wastetech Innovation Grant 7
-Sector: wastetech
-Budget: 50000 USD
-Deadline: 2026-10-10
-Eligibility: SMEs and startups in Africa
-Region: DRC

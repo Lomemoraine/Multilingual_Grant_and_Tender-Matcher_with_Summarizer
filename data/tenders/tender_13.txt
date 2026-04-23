@@ -1,7 +1,0 @@
-Title: Wastetech Innovation Grant 13
-Sector: wastetech
-Budget: 50000 USD
-Deadline: 2027-02-23
-Eligibility: SMEs and startups in Africa
-Region: Kenya
-Language: FR

@@ -1,6 +1,0 @@
-Title: Healthtech Innovation Grant 11
-Sector: healthtech
-Budget: 200000 USD
-Deadline: 2026-08-21
-Eligibility: SMEs and startups in Africa
-Region: Rwanda

@@ -1,6 +1,7 @@
-Title: Cleantech Innovation Grant 13
-Sector: cleantech
-Budget: 5000 USD
-Deadline: 2026-07-12
+Title: Fintech Innovation Grant 13
+Sector: fintech
+Budget: 50000 USD
+Deadline: 2027-01-01
 Eligibility: SMEs and startups in Africa
-Region: Ethiopia
+Region: Kenya
+Language: EN

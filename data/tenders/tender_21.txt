@@ -1,7 +1,0 @@
-Title: Edtech Innovation Grant 21
-Sector: edtech
-Budget: 5000 USD
-Deadline: 2026-12-13
-Eligibility: SMEs and startups in Africa
-Region: DRC
-Language: FR

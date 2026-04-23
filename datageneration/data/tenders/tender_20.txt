@@ -1,6 +1,7 @@
-Title: Cleantech Innovation Grant 20
-Sector: cleantech
-Budget: 50000 USD
-Deadline: 2027-04-01
+Title: Wastetech Innovation Grant 20
+Sector: wastetech
+Budget: 5000 USD
+Deadline: 2026-07-26
 Eligibility: SMEs and startups in Africa
-Region: Ethiopia
+Region: Senegal
+Language: EN

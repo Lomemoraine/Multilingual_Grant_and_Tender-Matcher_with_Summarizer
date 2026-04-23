@@ -1,6 +1,7 @@
-Title: Edtech Innovation Grant 21
-Sector: edtech
-Budget: 50000 USD
-Deadline: 2026-08-19
+Title: Wastetech Innovation Grant 21
+Sector: wastetech
+Budget: 1000000 USD
+Deadline: 2027-02-20
 Eligibility: SMEs and startups in Africa
-Region: Rwanda
+Region: Senegal
+Language: EN

@@ -1,6 +1,7 @@
 Title: Cleantech Innovation Grant 23
 Sector: cleantech
-Budget: 200000 USD
-Deadline: 2026-11-26
+Budget: 50000 USD
+Deadline: 2026-08-25
 Eligibility: SMEs and startups in Africa
 Region: Kenya
+Language: EN

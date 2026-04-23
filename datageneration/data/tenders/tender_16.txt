@@ -1,6 +1,7 @@
 Title: Agritech Innovation Grant 16
 Sector: agritech
-Budget: 5000 USD
-Deadline: 2026-09-02
+Budget: 1000000 USD
+Deadline: 2027-01-18
 Eligibility: SMEs and startups in Africa
-Region: Ethiopia
+Region: Rwanda
+Language: EN

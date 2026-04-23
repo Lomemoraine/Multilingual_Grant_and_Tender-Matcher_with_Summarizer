@@ -1,6 +1,0 @@
-Title: Cleantech Innovation Grant 40
-Sector: cleantech
-Budget: 1000000 USD
-Deadline: 2026-11-16
-Eligibility: SMEs and startups in Africa
-Region: Ethiopia

@@ -1,7 +1,0 @@
-Title: Edtech Innovation Grant 18
-Sector: edtech
-Budget: 200000 USD
-Deadline: 2026-12-11
-Eligibility: SMEs and startups in Africa
-Region: Kenya
-Language: EN
