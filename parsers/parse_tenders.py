@@ -5,6 +5,30 @@ from pathlib import Path
 
 SECTORS = ["agritech","healthtech","cleantech","edtech","fintech","wastetech"]
 
+def normalize_budget(budget_str):
+    """Return integer budget (USD) parsed from a string like '50,000 USD' or '50000 USD'."""
+    if not budget_str:
+        return None
+    s = str(budget_str)
+    # handle common thousand separators and currency symbols
+    s = s.replace(',', '').replace('\u00A0', ' ')
+    # find number groups (including possible decimals)
+    m = re.search(r"(\d+[\d\s]*)", s)
+    if not m:
+        # handle compact forms like '5k' or '5K'
+        m2 = re.search(r"(\d+(?:\.\d+)?)\s*[kK]", s)
+        if m2:
+            try:
+                return int(float(m2.group(1)) * 1000)
+            except Exception:
+                return None
+        return None
+    num = re.sub(r"\s+", '', m.group(1))
+    try:
+        return int(float(num))
+    except Exception:
+        return None
+
 def extract_fields(text):
     # Basic line-based extraction
     fields = {}
@@ -22,7 +46,9 @@ def extract_fields(text):
             continue
         m = re.match(r"^Budget:\s*(.+)$", line, re.I)
         if m:
-            fields['budget'] = m.group(1).strip()
+            raw = m.group(1).strip()
+            fields['budget'] = raw
+            fields['budget_value'] = normalize_budget(raw)
             continue
         m = re.match(r"^Deadline:\s*(.+)$", line, re.I)
         if m:
@@ -48,6 +74,12 @@ def extract_fields(text):
             if s in low:
                 fields['sector'] = s
                 break
+
+    # Extract a multi-line Description: block if present
+    if 'description' not in fields:
+        m = re.search(r"Description:\s*(.*?)(?:\n\s*(?:Eligibility:|$))", text, re.S | re.I)
+        if m:
+            fields['description'] = m.group(1).strip()
 
     return fields
 
