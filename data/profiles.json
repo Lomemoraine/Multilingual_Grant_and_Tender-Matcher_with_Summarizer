@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "sector": "healthtech",
+    "country": "Rwanda",
+    "employees": 30,
+    "languages": [
+      "FR"
+    ],
+    "needs_text": "Looking for funding in healthtech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 2,
+    "sector": "healthtech",
+    "country": "Senegal",
+    "employees": 8,
+    "languages": [
+      "FR"
+    ],
+    "needs_text": "Looking for funding in healthtech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 3,
+    "sector": "healthtech",
+    "country": "Rwanda",
+    "employees": 81,
+    "languages": [
+      "EN"
+    ],
+    "needs_text": "Looking for funding in healthtech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 4,
+    "sector": "fintech",
+    "country": "Senegal",
+    "employees": 121,
+    "languages": [
+      "FR"
+    ],
+    "needs_text": "Looking for funding in fintech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 5,
+    "sector": "wastetech",
+    "country": "Rwanda",
+    "employees": 172,
+    "languages": [
+      "EN"
+    ],
+    "needs_text": "Looking for funding in wastetech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 6,
+    "sector": "fintech",
+    "country": "Rwanda",
+    "employees": 134,
+    "languages": [
+      "FR"
+    ],
+    "needs_text": "Looking for funding in fintech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 7,
+    "sector": "edtech",
+    "country": "DRC",
+    "employees": 131,
+    "languages": [
+      "FR"
+    ],
+    "needs_text": "Looking for funding in edtech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 8,
+    "sector": "fintech",
+    "country": "Rwanda",
+    "employees": 105,
+    "languages": [
+      "EN"
+    ],
+    "needs_text": "Looking for funding in fintech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 9,
+    "sector": "wastetech",
+    "country": "Senegal",
+    "employees": 5,
+    "languages": [
+      "FR"
+    ],
+    "needs_text": "Looking for funding in wastetech sector",
+    "past_funding": "None"
+  },
+  {
+    "id": 10,
+    "sector": "healthtech",
+    "country": "Kenya",
+    "employees": 54,
+    "languages": [
+      "FR"
+    ],
+    "needs_text": "Looking for funding in healthtech sector",
+    "past_funding": "None"
+  }
+]
